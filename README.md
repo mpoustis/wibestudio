@@ -12,9 +12,10 @@ landing page created with react.js and gsap for animations, movements and scroll
 [Locomotive-Scroll](https://www.npmjs.com/package/locomotive-scroll) <br />
 
 All videos and images were taken from: https://www.pexels.com/
-## Demo
 
-https://wibe-studio.vercel.app/
+## Demo
+https://wibestudio.vercel.app
+
 ## Screenshots 
 
 ![App Screenshot](https://raw.githubusercontent.com/mpoustis/wibestudio/main/src/assets/Images/wibe1.png)
